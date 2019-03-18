@@ -17,7 +17,7 @@ STEP 2:
 Merge the dataframes in to one master dataframe
 
 There are 500 customers in the transaction dataframe and 300 customers in the customer preference dataframe
-Only keep records which appear and both
+Only keep records which appear in both
 
 remove the objects that are no longer needed
 '''
